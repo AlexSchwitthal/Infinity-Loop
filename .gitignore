@@ -1,0 +1,11 @@
+/target/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.iws
+.DS_Store
+*~
+log/
+src/main/java/fr/dauphine/javaavance/phineloops/main/LocalTest.java
